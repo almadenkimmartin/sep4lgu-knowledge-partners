@@ -1,8 +1,8 @@
-# Knowledge Partners for LGA
+# Sustainable Energy Planning for LGU Knowledge Partners
 
 A directory of candidate knowledge partners for the DILG Local Government Academy's SEP4LGU (Sustainable Energy Planning for Local Government Units) program.
 
-The site is one self-contained page, `index.html`. It has five tabs:
+The site is one self-contained page, `index.html`, prepared by CentRE, RLI and DILG-LGA. It has five tabs, plus a floating "?" button that opens a searchable glossary of terms:
 
 - **Directory**: every partner, with search and include/exclude filters by role, potential contribution, sector and coverage.
 - **LGA Alignment and Benefit**: the same partners viewed through LGA's partnership pillars, LGRRC services and LGU capacity pillars.
